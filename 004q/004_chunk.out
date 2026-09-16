@@ -1,0 +1,5 @@
+unstable chunk:		1-2	(L)	|	1-2	(B)	|	1-1	(R)
+stable chunk:		3-3	(L)	|	3-3	(B)	|	2-2	(R)
+unstable chunk:		4-4	(L)	|	4-4	(B)	|	3-3	(R)
+stable chunk:		5-5	(L)	|	5-5	(B)	|	4-4	(R)
+unstable chunk:		-	(L)	|	-	(B)	|	5-7	(R)
